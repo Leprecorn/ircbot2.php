@@ -1,0 +1,26 @@
+{
+	"channels": {
+		"#iCherry": {
+			"key": null
+		},
+		"#hakd": {
+			"key": null
+		},
+		"#england": {
+			"key": null
+		}
+	},
+	"modules": {
+		"php": [
+			"titler.php",
+			"weather.php",
+			"cracker.php",
+			"birthday.php",
+			"launchAnnouncer.php",
+			"search.php",
+			"miniCommands.php",
+			"ip.php",
+			"ascii.php"
+		]
+	}
+}
